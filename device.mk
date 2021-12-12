@@ -212,6 +212,10 @@ PRODUCT_PACKAGES += \
     qcom.fmradio \
     qcom.fmradio.xml
 
+PRODUCT_PACKAGES += \
+    libavservices_minijail \
+    libavservices_minijail.vendor
+    
 # fwk-detect
 PRODUCT_PACKAGES += \
     libqti_vndfwk_detect \
