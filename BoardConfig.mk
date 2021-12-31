@@ -53,8 +53,6 @@ TARGET_COMPILE_WITH_MSM_KERNEL := true
 
 # Platform
 TARGET_BOARD_PLATFORM := sdm660
-TARGET_KERNEL_ADDITIONAL_FLAGS := \
-    HOSTCFLAGS="-fuse-ld=lld -Wno-unused-command-line-argument"
 
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
