@@ -159,6 +159,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.vibrator.service
 
+# TinyXML
+PRODUCT_PACKAGES += \
+    libtinyxml
+
 # Config Store
 PRODUCT_PACKAGES += \
     disable_configstore
