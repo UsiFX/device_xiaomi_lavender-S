@@ -1810,6 +1810,9 @@ vendor/lib64/vendor.qti.ims.rcsconfig@1.1.so|5d71371d3eb10481f95a018481dfb62a592
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so|ac8045bd314d9cb87120296f1d6fddeb98de19fd
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so|25517caf74691b812320b46b477a3f4161cc1bcf
 
+# Radio - from LA.UM.9.6.2.r1-04100-89xx.0
+system_ext/framework/qti-telephony-common.jar|8c99640be5b9b9ee886bfc450b6923a33eb2fd8b
+
 # Sensor-configs - from lavender-user 10 QKQ1.190910.002 V11.0.1.0.QFGMIXM release-keys
 vendor/etc/sensors/elliptic.conf|fd6193dd8ec39f85948151a83a14690c228121b9
 vendor/etc/sensors/sensor_def_qcomdev.conf|3ce1145d65ade70300feadf971e69ad6f522a749
