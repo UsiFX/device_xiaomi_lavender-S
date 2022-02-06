@@ -58,9 +58,6 @@
             <meta-data
                 android:name="com.android.settings.category"
                 android:value="com.android.settings.category.ia.display" />
-             <meta-data
-                android:name="com.android.settings.summary"
-                android:value="@string/ambient_display_summary" />    
         </activity>
         
         <service
