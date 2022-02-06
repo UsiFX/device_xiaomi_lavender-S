@@ -137,6 +137,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     vendor.display.enable_default_color_mode=0 \
     ro.vendor.display.cabl=0 \
     debug.hwui.use_buffer_age=false \
+    debug.sf.recomputecrop=0 \
     vendor.display.disable_rotator_downscale=1 \
     vendor.display.disable_scaler=0
 
